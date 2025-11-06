@@ -14,8 +14,8 @@ print("============")
 nama = "Abe"
 for huruf in nama:
     print(huruf)
-while digunakan ketika kita mau mengulang selama sebuah 
-kondisi itu masih benar
+#while digunakan ketika kita mau mengulang selama sebuah 
+#kondisi itu masih benar
 angka = 10
 while angka > 0:
     print(f"Hitungan ke-{angka}")
@@ -32,17 +32,17 @@ print("Mulai")
 # cara cek versi python
 # python3 --version
  
-Hello world
+#Hello world
 print("Hello World")
  
-Belajar Tipe Data Numberik
+#Belajar Tipe Data Numberik
 panjang = 10
 lebar = 8
  
 luas_persegi_panjang = panjang * lebar
 print(f"Luas Persegi Panjang: {luas_persegi_panjang}")
  
-Belajar tipe data string
+#Belajar tipe data string
  
 nama_depan = "Abizar"
 nama_belakang = "Al_Ghifari"
@@ -108,8 +108,8 @@ print("============")
 nama = "Abe"
 for huruf in nama:
     print(huruf)
-while digunakan ketika kita mau mengulang selama sebuah 
-kondisi itu masih benar
+#while digunakan ketika kita mau mengulang selama sebuah 
+#kondisi itu masih benar
 angka = 10
 while angka > 0:
     print(f"Hitungan ke-{angka}")
@@ -119,5 +119,4 @@ print("============")
  
 for angka2 in range(1,11):
     print(f"Hitungan ke- {angka2}")
-
 print("Mulai")
