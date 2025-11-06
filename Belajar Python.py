@@ -29,21 +29,6 @@ print("Mulai")
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # cara cek versi python
 # python3 --version
  
@@ -134,4 +119,5 @@ print("============")
  
 for angka2 in range(1,11):
     print(f"Hitungan ke- {angka2}")
+
 print("Mulai")
