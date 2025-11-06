@@ -45,7 +45,7 @@ print(f"Luas Persegi Panjang: {luas_persegi_panjang}")
 #Belajar tipe data string
  
 nama_depan = "Abizar"
-nama_belakang = "Al_Ghifari"
+nama_belakang = "Al Ghifari"
 pekerjaan = "Cloud Engineer"
  
 nama_lengkap = nama_depan + " " + nama_belakang
@@ -120,3 +120,4 @@ print("============")
 for angka2 in range(1,11):
     print(f"Hitungan ke- {angka2}")
 print("Mulai")
+
